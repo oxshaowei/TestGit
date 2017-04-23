@@ -6,8 +6,8 @@ public class InnerClass {
 	}
 	
 	 public InnerClass(String message) {
-		super();
-	}
+		this();
+ 	}
 	
 	
 	 public class HelloInner{}
